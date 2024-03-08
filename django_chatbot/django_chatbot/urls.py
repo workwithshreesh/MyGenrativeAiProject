@@ -17,6 +17,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+admin.site.site_header="ChatBot Admin"
+admin.site.site_title="ChatBot"
+admin.site.site_index="Welcome to ChatBot Admin Portal"
+
 urlpatterns = [
     path("admin/", admin.site.urls),
     path('',include('chatbot.urls')),
