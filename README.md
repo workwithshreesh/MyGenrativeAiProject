@@ -27,7 +27,7 @@ How to Use:
     `Step4:`Now type python manage.py runserver
     `If any problem contact me on twitter [Twitter:](https://twitter.com/Workwithshreesh)`
 
-   ## Project Video: [!Watch This Video](<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7172300429739986945" height="1045" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>)
+   ## Project Video: [![Watch this video]](https://www.linkedin.com/posts/workwithshreesh_ai-djangodeveloper-pythondeveloper-activity-7172300498815905792-850t?utm_source=share&utm_medium=member_desktop)
 
 Contributing:
 Contributions to the project are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. Don't forget to give the project a star if you find it useful!
